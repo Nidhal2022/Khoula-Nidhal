@@ -4,7 +4,7 @@ import altair as alt
 import numpy as np
 import matplotlib as plt
 
-houses = pd.read_csv('/content/houses.csv')
+houses = pd.read_csv('https://raw.githubusercontent.com/Nidhal2022/Khoula-Nidhal/main/streamlit-examples/houses.csv')
 houses=houses.dropna()
 houses=houses[houses['area']<400]
 houses=houses[houses['total (R$)']<8000]
