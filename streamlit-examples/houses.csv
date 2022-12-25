@@ -1,0 +1,963 @@
+city,area,rooms,bathroom,parking spaces,floor,animal,furniture,hoa (R$),rent amount (R$),property tax (R$),fire insurance (R$),total (R$)
+São Paulo,70,2,1,1,7,acept,furnished,2065,3300,211,42,5618
+São Paulo,320,4,4,0,20,acept,not furnished,1200,4960,1750,63,7973
+Porto Alegre,80,1,1,1,6,acept,not furnished,1000,2800,0,41,3841
+Porto Alegre,51,2,1,0,2,acept,not furnished,270,1112,22,17,1421
+São Paulo,25,1,1,0,1,not acept,not furnished,0,800,25,11,836
+São Paulo,376,3,3,7,-,acept,not furnished,0,8000,834,121,8955
+Rio de Janeiro,72,2,1,0,7,acept,not furnished,740,1900,85,25,2750
+São Paulo,213,4,4,4,4,acept,not furnished,2254,3223,1735,41,7253
+Rio de Janeiro,35,1,1,0,2,acept,furnished,590,2300,35,30,2955
+São Paulo,26,1,1,0,2,acept,furnished,470,2100,150,27,2747
+Campinas,46,1,1,1,10,acept,not furnished,550,580,43,8,1181
+São Paulo,36,1,1,0,11,acept,not furnished,359,2100,70,27,2556
+São Paulo,55,1,1,1,2,acept,furnished,790,4200,224,54,5268
+São Paulo,100,2,2,2,24,acept,furnished,900,4370,17,56,5343
+Campinas,330,4,6,6,-,acept,furnished,680,8000,328,121,9129
+São Paulo,110,2,2,1,1,acept,not furnished,700,3000,122,39,3861
+Rio de Janeiro,88,2,3,1,9,not acept,furnished,1614,3500,221,16,5351
+Rio de Janeiro,56,2,1,0,8,acept,not furnished,800,1220,0,16,2036
+São Paulo,100,7,4,0,-,acept,not furnished,0,3800,118,58,3976
+Belo Horizonte,42,1,1,1,17,not acept,furnished,470,2690,172,36,3368
+São Paulo,160,3,2,2,18,acept,furnished,1530,1900,167,25,3622
+São Paulo,35,1,1,0,-,acept,not furnished,0,1100,3,14,1117
+Rio de Janeiro,90,3,2,1,7,acept,not furnished,800,1800,118,24,2742
+São Paulo,49,1,1,1,10,acept,not furnished,480,3500,42,45,4067
+São Paulo,41,1,1,1,5,not acept,furnished,600,3000,0,39,3639
+Belo Horizonte,64,2,2,1,11,acept,not furnished,352,1500,80,20,1952
+Campinas,208,3,2,4,-,acept,not furnished,0,3180,100,48,3328
+São Paulo,20,1,1,0,5,acept,furnished,602,1800,130,23,2555
+São Paulo,55,2,2,2,6,acept,not furnished,780,1068,142,14,2004
+São Paulo,32,1,1,0,3,acept,not furnished,515,1700,29,22,2266
+São Paulo,80,2,2,1,11,acept,not furnished,1208,2550,216,33,4007
+Rio de Janeiro,45,1,1,1,10,acept,furnished,2450,2500,593,33,5576
+São Paulo,350,4,4,3,8,acept,not furnished,2100,4000,500,51,6651
+Porto Alegre,38,1,1,2,11,not acept,not furnished,450,1750,0,26,2226
+São Paulo,30,1,1,0,1,acept,not furnished,460,1600,0,21,2081
+Belo Horizonte,80,3,2,1,-,acept,not furnished,0,11000,425,181,11610
+São Paulo,70,2,1,0,-,not acept,not furnished,0,1150,59,18,1227
+Porto Alegre,40,1,1,1,6,acept,furnished,390,2990,0,44,3424
+São Paulo,240,3,2,3,-,acept,not furnished,0,3500,292,53,3845
+Belo Horizonte,200,4,2,1,7,not acept,not furnished,850,2550,9,34,3443
+Belo Horizonte,45,1,1,1,5,acept,not furnished,500,1631,192,12,2335
+São Paulo,360,4,5,0,1,acept,not furnished,4000,6410,2000,82,12490
+São Paulo,40,1,1,1,10,acept,furnished,978,2829,0,33,3840
+Belo Horizonte,100,3,1,0,13,not acept,not furnished,700,1220,10,17,1947
+Porto Alegre,42,1,1,2,2,acept,furnished,190,1770,17,26,2003
+Campinas,250,3,3,2,1,acept,not furnished,2200,1700,256,22,4178
+Campinas,48,1,1,1,2,acept,furnished,505,1600,59,21,2185
+Rio de Janeiro,90,3,3,1,10,acept,not furnished,1250,3800,147,49,5246
+São Paulo,45,1,2,1,15,acept,furnished,856,3900,150,50,4956
+Rio de Janeiro,150,2,3,4,6,acept,not furnished,1700,4000,700,52,6452
+São Paulo,60,2,1,0,2,acept,not furnished,200,1445,0,19,1664
+São Paulo,31,1,1,0,4,acept,not furnished,370,2350,56,30,2806
+São Paulo,210,4,5,4,4,not acept,not furnished,1650,9000,772,115,11540
+São Paulo,280,3,1,2,-,acept,not furnished,0,6000,113,91,6204
+Campinas,93,2,3,2,9,acept,not furnished,663,5500,133,70,6366
+Porto Alegre,75,3,2,1,9,acept,not furnished,340,1800,109,27,2276
+São Paulo,194,3,4,3,-,acept,not furnished,0,4000,70,61,4131
+São Paulo,41,1,1,1,6,acept,furnished,523,4000,131,51,4705
+Rio de Janeiro,65,1,1,1,8,acept,furnished,2000,5100,250,66,7416
+São Paulo,70,2,1,1,13,acept,not furnished,761,2150,67,28,3006
+São Paulo,278,4,5,2,16,acept,furnished,4052,9000,1261,115,14430
+Rio de Janeiro,35,1,1,0,5,acept,not furnished,306,1521,21,20,1868
+Campinas,300,4,4,3,2,acept,not furnished,2300,6000,417,77,8794
+São Paulo,61,2,1,1,4,acept,not furnished,459,1850,0,24,2333
+Rio de Janeiro,130,3,2,1,7,acept,not furnished,1660,1700,475,22,3857
+Rio de Janeiro,80,2,1,1,20,acept,not furnished,500,900,90,12,1502
+São Paulo,164,4,4,2,6,not acept,not furnished,2159,5000,386,64,7609
+Belo Horizonte,220,4,2,3,3,acept,not furnished,450,2422,125,33,3030
+São Paulo,45,1,1,0,-,acept,not furnished,0,1050,46,16,1112
+São Paulo,108,3,2,2,7,acept,not furnished,1290,5600,435,71,7396
+Belo Horizonte,128,1,1,0,4,acept,furnished,418,2100,182,28,2728
+Rio de Janeiro,60,1,1,0,10,not acept,not furnished,450,1800,48,24,2322
+São Paulo,250,4,5,4,6,acept,not furnished,2050,9800,998,125,12970
+Porto Alegre,47,1,1,1,1,not acept,furnished,400,2200,0,33,2633
+Belo Horizonte,170,4,3,4,9,not acept,not furnished,744,2700,296,36,3776
+São Paulo,45,1,1,0,1,not acept,not furnished,300,1240,0,16,1556
+São Paulo,42,1,1,1,15,acept,not furnished,686,3500,123,45,4354
+São Paulo,164,4,4,3,1,acept,not furnished,1840,6000,550,77,8467
+São Paulo,70,3,1,1,1,acept,not furnished,700,1020,200,13,1933
+Porto Alegre,100,4,3,1,8,acept,not furnished,600,2200,159,33,2992
+São Paulo,64,2,2,2,4,acept,furnished,1300,4500,440,58,6298
+Belo Horizonte,68,2,1,1,3,acept,not furnished,320,1200,27,16,1563
+Belo Horizonte,75,2,2,2,14,not acept,not furnished,620,2500,264,34,3418
+São Paulo,63,2,2,0,15,not acept,not furnished,590,1550,152,20,2312
+São Paulo,145,3,4,3,1,not acept,not furnished,1200,6000,750,77,8027
+São Paulo,85,2,2,2,3,not acept,not furnished,1500,2800,292,36,4628
+São Paulo,254,4,4,4,7,acept,not furnished,3366,9000,1800,115,14280
+Porto Alegre,350,4,4,4,-,acept,furnished,1,9000,359,160,9520
+São Paulo,300,4,4,3,-,acept,not furnished,0,3500,584,53,4137
+Belo Horizonte,296,4,3,2,-,acept,not furnished,0,13500,423,222,14150
+São Paulo,64,2,2,2,8,acept,not furnished,450,2800,30,36,3316
+São Paulo,133,3,2,0,6,acept,not furnished,813,2957,38,38,3846
+Campinas,44,1,1,0,7,acept,not furnished,350,550,12,7,919
+Campinas,240,3,4,2,-,acept,not furnished,0,3000,250,46,3296
+Porto Alegre,70,3,2,1,4,acept,not furnished,490,2500,8,37,3035
+São Paulo,22,1,1,0,26,acept,not furnished,302,2050,45,26,2423
+Porto Alegre,50,1,1,1,1,acept,not furnished,350,950,50,14,1364
+Porto Alegre,67,3,2,2,4,acept,not furnished,600,2200,50,33,2883
+São Paulo,31,1,1,0,6,acept,furnished,430,2300,0,30,2760
+Rio de Janeiro,90,2,1,1,1,acept,furnished,850,3468,191,45,4554
+Rio de Janeiro,109,3,3,1,1,acept,not furnished,2000,3800,300,49,6149
+Belo Horizonte,400,4,2,2,-,not acept,not furnished,0,2500,74,41,2615
+Campinas,284,4,3,3,4,acept,not furnished,2340,6000,483,77,8900
+Porto Alegre,70,2,1,1,3,acept,furnished,360,2400,30,36,2826
+Rio de Janeiro,309,4,5,4,7,acept,not furnished,2661,6500,682,84,9927
+São Paulo,70,2,1,0,-,acept,not furnished,0,2100,134,32,2266
+São Paulo,360,3,4,1,10,acept,not furnished,2300,10000,584,127,13010
+São Paulo,30,1,1,1,10,not acept,not furnished,886,1500,0,20,2406
+Campinas,80,2,2,2,11,acept,not furnished,832,2200,171,28,3231
+Belo Horizonte,133,4,4,3,6,not acept,not furnished,1500,7000,800,94,9394
+São Paulo,38,1,1,1,14,not acept,furnished,1620,2800,279,36,4735
+São Paulo,73,2,2,1,7,acept,not furnished,1100,3500,100,45,4745
+São Paulo,155,3,4,2,4,acept,not furnished,1500,2000,150,26,3676
+São Paulo,63,2,2,1,15,acept,not furnished,357,3200,50,41,3648
+São Paulo,58,2,1,1,1,acept,not furnished,0,1400,0,18,1418
+São Paulo,48,1,1,0,9,not acept,furnished,377,3450,0,44,3871
+São Paulo,210,3,4,3,7,acept,not furnished,1700,2790,834,36,5360
+Belo Horizonte,100,3,2,2,2,acept,not furnished,340,1600,183,22,2145
+São Paulo,94,3,2,2,1,acept,not furnished,1337,3570,140,46,5093
+São Paulo,94,3,3,2,3,acept,furnished,1220,5010,395,64,6689
+São Paulo,76,3,1,1,4,acept,not furnished,1200,2500,267,32,3999
+São Paulo,192,3,3,2,13,acept,not furnished,2100,7800,634,99,10630
+São Paulo,217,3,4,3,1,acept,not furnished,2884,6500,0,83,9467
+São Paulo,68,2,1,1,5,acept,not furnished,610,1400,35,18,2063
+São Paulo,110,3,2,2,2,acept,not furnished,1145,2400,247,31,3823
+Belo Horizonte,95,2,2,1,3,acept,not furnished,660,1600,164,22,2446
+São Paulo,34,1,1,0,5,not acept,not furnished,347,1200,45,16,1608
+São Paulo,192,3,4,3,5,acept,not furnished,2000,8000,0,102,10100
+Porto Alegre,62,2,2,1,9,acept,not furnished,350,1800,75,27,2252
+São Paulo,180,3,3,4,-,acept,not furnished,0,3700,184,56,3940
+Campinas,44,1,1,0,3,acept,furnished,350,916,12,12,1290
+Belo Horizonte,100,2,1,1,1,not acept,not furnished,250,1700,116,23,2089
+Rio de Janeiro,140,3,3,1,24,not acept,not furnished,900,1370,100,18,2388
+São Paulo,170,3,3,3,8,acept,furnished,1570,2800,648,36,5054
+São Paulo,100,3,2,2,-,not acept,not furnished,0,1600,150,25,1775
+São Paulo,75,3,2,2,4,acept,not furnished,652,1600,82,21,2355
+Rio de Janeiro,52,2,1,0,2,acept,not furnished,200,1200,43,16,1459
+Campinas,999,5,7,8,-,acept,not furnished,0,14000,667,211,14880
+São Paulo,270,4,4,4,8,acept,not furnished,2200,7000,1500,89,10790
+Belo Horizonte,50,2,1,1,1,acept,not furnished,160,930,60,13,1163
+Campinas,200,3,3,2,-,acept,not furnished,650,2210,184,34,3078
+São Paulo,71,2,2,0,16,acept,not furnished,430,1920,100,25,2475
+São Paulo,500,5,4,6,-,acept,not furnished,0,13000,250,196,13450
+São Paulo,60,2,1,0,-,acept,not furnished,0,1080,94,17,1191
+São Paulo,110,2,1,0,8,acept,not furnished,1100,1300,84,17,2501
+São Paulo,210,3,3,4,-,acept,not furnished,0,3294,276,50,3620
+São Paulo,220,3,4,3,8,acept,not furnished,2021,6000,996,77,9094
+Belo Horizonte,200,3,2,5,-,not acept,not furnished,0,4000,204,66,4270
+São Paulo,130,3,4,3,2,acept,not furnished,2300,4250,502,54,7106
+São Paulo,65,2,2,2,7,acept,furnished,1037,4000,245,51,5333
+São Paulo,96,3,2,2,17,acept,not furnished,804,3200,250,41,4295
+Rio de Janeiro,107,3,2,0,7,acept,furnished,1460,3200,270,42,4972
+Rio de Janeiro,105,3,2,0,1,acept,not furnished,740,2200,9,29,2978
+Rio de Janeiro,100,3,2,0,7,acept,not furnished,900,3290,109,43,4342
+São Paulo,287,3,4,4,-,acept,furnished,0,9000,430,136,9566
+Campinas,24,1,1,0,1,not acept,furnished,230,1180,9,15,1434
+São Paulo,22,1,1,0,-,not acept,not furnished,0,976,0,15,991
+São Paulo,70,1,1,1,-,not acept,not furnished,0,2529,142,39,2710
+Porto Alegre,44,1,1,1,2,acept,furnished,250,1500,17,22,1789
+São Paulo,150,3,2,2,-,not acept,not furnished,0,2500,0,38,2538
+São Paulo,90,1,2,2,9,acept,furnished,998,2900,220,37,4155
+São Paulo,200,4,4,2,8,acept,furnished,3000,2800,830,36,6666
+São Paulo,320,8,4,0,-,acept,not furnished,450,10500,350,158,11460
+Porto Alegre,90,2,1,1,2,not acept,not furnished,550,1700,110,25,2385
+São Paulo,240,4,4,3,9,acept,not furnished,2500,2144,834,28,5506
+São Paulo,154,4,3,3,21,acept,not furnished,1684,7000,1020,89,9793
+São Paulo,60,2,2,2,2,acept,not furnished,2340,3230,284,41,5895
+Campinas,101,3,2,0,5,acept,not furnished,780,2380,91,31,3282
+Porto Alegre,140,3,4,2,-,not acept,not furnished,0,3090,0,55,3145
+São Paulo,110,3,3,3,4,acept,not furnished,1195,2350,687,30,4262
+São Paulo,110,3,3,2,-,acept,not furnished,0,4800,50,73,4923
+Belo Horizonte,90,2,2,2,3,acept,not furnished,200,2000,84,27,2311
+São Paulo,57,2,1,1,7,acept,not furnished,570,1500,67,20,2157
+São Paulo,160,3,3,2,5,acept,furnished,1650,1500,419,20,3589
+São Paulo,39,1,1,0,8,acept,not furnished,330,1250,19,16,1615
+Campinas,78,1,2,1,4,acept,not furnished,0,2290,143,30,2463
+Porto Alegre,36,1,1,1,-,acept,not furnished,0,762,15,14,791
+Campinas,70,2,1,1,1,acept,not furnished,558,1200,0,16,1774
+Belo Horizonte,45,1,1,1,4,not acept,furnished,300,3200,0,43,3543
+São Paulo,200,3,4,3,1,acept,not furnished,3500,8500,1250,108,13360
+São Paulo,100,3,3,3,-,acept,not furnished,0,4300,120,65,4485
+São Paulo,42,1,1,1,14,not acept,not furnished,0,5000,0,64,5064
+São Paulo,280,4,4,1,1,acept,furnished,3000,8000,292,102,11390
+São Paulo,28,1,1,1,13,not acept,furnished,615,2800,42,36,3493
+São Paulo,30,1,1,0,-,not acept,furnished,296,1826,30,24,2176
+Belo Horizonte,85,3,2,1,1,acept,not furnished,337,1500,88,20,1945
+Campinas,83,1,1,1,4,not acept,not furnished,500,1080,59,14,1653
+Campinas,85,3,2,2,16,acept,furnished,550,3300,150,42,4042
+Belo Horizonte,90,3,2,2,3,acept,not furnished,325,1600,105,22,2052
+Belo Horizonte,50,2,1,0,5,acept,not furnished,0,900,100,12,1012
+Rio de Janeiro,50,1,1,0,8,acept,not furnished,600,2900,134,38,3672
+Belo Horizonte,300,3,2,3,-,not acept,not furnished,0,6700,539,110,7349
+Porto Alegre,39,1,1,0,7,acept,not furnished,350,850,27,13,1240
+Porto Alegre,60,2,1,0,1,acept,not furnished,222,1100,46,17,1385
+Rio de Janeiro,68,2,1,0,4,not acept,not furnished,750,1250,9,17,2026
+São Paulo,70,2,1,1,-,acept,not furnished,230,1250,50,16,1546
+São Paulo,90,2,2,1,6,acept,furnished,900,6500,89,83,7572
+Rio de Janeiro,258,5,6,0,-,acept,not furnished,0,8700,670,133,9503
+São Paulo,200,2,2,6,-,acept,not furnished,0,4500,292,68,4860
+São Paulo,123,2,2,2,6,acept,not furnished,1800,2990,625,38,5453
+São Paulo,127,3,2,2,-,acept,furnished,220,2150,67,33,2470
+Belo Horizonte,180,4,2,2,-,acept,not furnished,0,1800,210,30,2040
+São Paulo,110,3,2,0,-,not acept,not furnished,0,2900,384,44,3328
+Rio de Janeiro,70,2,2,1,7,acept,furnished,585,1719,77,23,2404
+São Paulo,35,1,1,1,8,acept,furnished,720,3000,130,39,3889
+São Paulo,219,3,2,2,-,acept,not furnished,0,2900,150,44,3094
+Rio de Janeiro,25,1,1,0,-,acept,not furnished,50,700,0,10,760
+Rio de Janeiro,170,4,5,0,10,acept,not furnished,1200,7100,639,92,9031
+Rio de Janeiro,45,1,1,0,8,acept,not furnished,900,1570,98,21,2589
+Belo Horizonte,420,4,4,2,-,not acept,not furnished,0,7000,200,115,7315
+Porto Alegre,46,1,1,0,4,acept,not furnished,0,1040,48,16,1104
+São Paulo,145,3,3,2,1,acept,furnished,1088,5800,250,74,7212
+Belo Horizonte,59,2,2,1,2,acept,not furnished,190,1100,59,15,1364
+Belo Horizonte,225,4,3,0,8,acept,not furnished,1850,7500,466,100,9916
+São Paulo,210,4,4,3,3,acept,not furnished,2270,4675,1110,60,8115
+Porto Alegre,76,1,1,0,-,acept,not furnished,209,1249,52,19,1529
+São Paulo,220,3,4,3,2,not acept,not furnished,2500,5150,1250,66,8966
+São Paulo,109,3,2,2,7,acept,not furnished,1746,2500,134,32,4412
+Belo Horizonte,95,2,1,1,3,acept,not furnished,646,1000,120,14,1780
+São Paulo,32,1,1,0,-,not acept,not furnished,280,1500,50,20,1850
+São Paulo,53,1,1,1,3,acept,not furnished,694,4390,200,56,5340
+São Paulo,40,1,1,0,-,not acept,not furnished,0,780,17,12,809
+São Paulo,50,1,1,1,4,acept,furnished,500,3223,100,41,3864
+São Paulo,60,1,1,0,-,acept,not furnished,0,1300,255,20,1575
+Porto Alegre,64,2,2,2,7,not acept,not furnished,450,1500,50,22,2022
+Rio de Janeiro,140,3,3,2,4,acept,furnished,2280,12000,535,155,14970
+São Paulo,121,3,3,1,12,acept,not furnished,800,2040,334,26,3200
+Campinas,43,1,1,1,4,acept,furnished,498,2100,84,27,2709
+São Paulo,20,1,1,1,3,not acept,furnished,1700,1360,0,18,3078
+Campinas,58,2,1,1,3,acept,not furnished,289,950,11,13,1263
+Belo Horizonte,570,5,6,7,-,acept,furnished,0,8330,873,137,9340
+São Paulo,88,2,1,1,2,acept,not furnished,980,2790,0,36,3806
+São Paulo,89,3,2,2,19,acept,not furnished,900,6000,184,77,7161
+Porto Alegre,47,1,1,1,1,not acept,furnished,400,2200,0,33,2633
+São Paulo,40,1,1,0,-,acept,not furnished,0,1100,50,17,1167
+Rio de Janeiro,40,1,1,0,1,acept,furnished,386,1950,91,26,2453
+Rio de Janeiro,60,1,2,1,3,acept,not furnished,400,750,80,10,1240
+São Paulo,25,1,1,0,14,acept,not furnished,257,1650,0,21,1928
+Porto Alegre,50,2,1,0,13,acept,not furnished,340,1130,30,17,1517
+Porto Alegre,90,3,1,0,1,acept,not furnished,145,1130,55,17,1347
+São Paulo,173,3,3,3,2,acept,not furnished,3000,2000,825,26,5851
+Campinas,91,3,2,2,12,acept,not furnished,700,2250,175,29,3154
+São Paulo,90,3,2,2,6,not acept,not furnished,1710,1200,109,16,3035
+São Paulo,530,5,6,4,2,acept,furnished,8300,15000,5000,191,28490
+São Paulo,40,1,1,0,-,not acept,not furnished,0,1300,0,17,1317
+São Paulo,296,4,5,3,3,acept,not furnished,0,15000,0,191,15190
+São Paulo,87,3,2,1,17,acept,not furnished,850,1400,200,18,2468
+São Paulo,300,3,3,5,-,acept,not furnished,0,5000,584,76,5660
+São Paulo,136,3,3,3,13,acept,not furnished,1430,4206,364,54,6054
+São Paulo,52,2,1,0,4,acept,not furnished,0,1340,0,17,1357
+Porto Alegre,94,2,2,2,8,acept,not furnished,600,2900,230,43,3773
+Rio de Janeiro,300,4,5,3,7,acept,not furnished,3850,12750,750,165,17520
+Rio de Janeiro,100,3,3,1,3,acept,not furnished,850,3229,100,42,4221
+São Paulo,240,3,4,3,3,acept,furnished,3600,4950,1000,63,9613
+Belo Horizonte,308,2,3,3,-,acept,not furnished,0,2000,171,33,2204
+São Paulo,350,4,5,4,15,acept,furnished,2700,4590,1334,59,8683
+São Paulo,75,2,2,0,2,acept,not furnished,570,1450,0,19,2039
+São Paulo,155,3,2,3,4,acept,furnished,2600,11700,667,149,15120
+São Paulo,260,3,5,4,12,acept,not furnished,2227,6000,1468,77,9772
+São Paulo,80,2,2,1,-,not acept,not furnished,0,1500,184,23,1707
+Rio de Janeiro,85,3,1,1,6,acept,not furnished,810,1998,87,26,2921
+São Paulo,120,2,2,2,22,not acept,furnished,1400,3500,375,45,5320
+São Paulo,100,2,2,1,-,acept,not furnished,0,1970,0,30,2000
+São Paulo,240,4,5,4,6,not acept,not furnished,1869,3500,717,45,6131
+São Paulo,360,7,6,6,-,acept,not furnished,0,5270,245,80,5595
+São Paulo,42,1,1,0,-,not acept,not furnished,0,1100,0,17,1117
+São Paulo,33,1,1,1,14,acept,furnished,600,2800,112,36,3548
+Rio de Janeiro,48,1,1,0,1,not acept,not furnished,626,1020,53,14,1713
+Rio de Janeiro,36,1,1,0,5,acept,not furnished,350,1130,42,15,1537
+São Paulo,270,6,3,6,-,acept,not furnished,0,4500,417,68,4985
+Campinas,75,2,1,1,2,acept,not furnished,670,1200,121,16,2007
+Rio de Janeiro,46,2,1,0,3,not acept,not furnished,270,1600,0,21,1891
+São Paulo,350,3,3,3,-,not acept,not furnished,0,10000,1292,151,11440
+Porto Alegre,131,3,3,1,10,acept,furnished,1625,1750,121,26,3522
+Campinas,90,3,2,1,3,acept,not furnished,920,1300,129,17,2366
+Rio de Janeiro,26,1,1,0,4,not acept,not furnished,390,1650,120,22,2182
+Rio de Janeiro,44,1,1,0,3,acept,furnished,400,1100,14,15,1529
+São Paulo,70,2,2,0,-,acept,not furnished,0,1880,0,29,1909
+Belo Horizonte,40,1,1,0,-,not acept,not furnished,0,900,0,15,915
+Belo Horizonte,320,4,2,4,-,acept,not furnished,0,3200,206,53,3459
+São Paulo,213,2,2,3,-,acept,not furnished,0,5150,0,78,5228
+São Paulo,80,2,1,0,1,not acept,not furnished,0,1100,0,14,1114
+Campinas,70,1,1,0,6,acept,not furnished,500,800,30,11,1341
+Rio de Janeiro,60,2,1,1,5,acept,not furnished,690,1500,25,20,2235
+Rio de Janeiro,70,2,1,1,3,acept,not furnished,800,1300,44,17,2161
+Porto Alegre,300,6,2,2,-,acept,not furnished,0,6000,242,107,6349
+São Paulo,220,4,5,3,14,acept,furnished,2050,12000,750,153,14950
+Porto Alegre,64,2,2,2,7,acept,not furnished,450,1600,34,24,2108
+Rio de Janeiro,80,3,3,1,7,not acept,not furnished,1100,1470,0,19,2589
+São Paulo,56,1,1,0,9,acept,furnished,625,2500,81,32,3238
+São Paulo,161,4,3,2,1,acept,not furnished,1450,10000,467,127,12040
+São Paulo,35,1,1,0,-,acept,not furnished,350,1350,0,18,1718
+São Paulo,720,4,6,5,-,acept,furnished,0,12750,2613,192,15560
+São Paulo,280,4,5,4,6,not acept,not furnished,2500,3200,750,41,6491
+Porto Alegre,96,3,2,0,2,acept,not furnished,408,2100,84,31,2623
+Campinas,236,3,4,4,10,acept,not furnished,1600,11000,440,140,13180
+São Paulo,81,3,2,1,4,acept,not furnished,204,1510,0,20,1734
+São Paulo,62,2,1,1,1,acept,not furnished,580,1650,92,21,2343
+Belo Horizonte,125,3,2,0,2,acept,not furnished,150,1200,69,16,1435
+São Paulo,37,1,1,1,6,acept,furnished,890,4150,110,53,5203
+São Paulo,60,2,2,1,11,acept,not furnished,1680,4000,200,51,5931
+São Paulo,230,4,2,3,1,acept,not furnished,3600,5000,1551,64,10220
+São Paulo,210,4,5,2,1,acept,furnished,3800,8500,0,108,12410
+São Paulo,450,4,3,8,-,acept,not furnished,0,14000,175,211,14390
+São Paulo,234,3,5,4,-,acept,furnished,0,3680,400,56,4136
+Belo Horizonte,135,4,3,2,2,not acept,not furnished,868,2450,308,33,3659
+São Paulo,395,4,5,3,-,acept,not furnished,0,6000,122,91,6213
+Porto Alegre,92,2,2,1,2,acept,not furnished,450,1700,67,25,2242
+São Paulo,412,3,5,6,21,acept,not furnished,2000,3952,459,51,6462
+São Paulo,42,1,1,1,27,acept,not furnished,560,5300,100,68,6028
+São Paulo,33,1,1,0,12,not acept,furnished,385,3000,125,39,3549
+Porto Alegre,28,2,1,1,-,acept,not furnished,0,600,0,11,611
+São Paulo,190,4,4,2,-,not acept,not furnished,0,4450,223,67,4740
+São Paulo,165,4,3,3,10,acept,furnished,2440,6300,1292,80,10110
+Porto Alegre,44,1,1,0,5,acept,not furnished,355,1200,20,18,1593
+São Paulo,60,2,1,1,4,acept,not furnished,603,1275,109,17,2004
+São Paulo,380,3,3,2,1,acept,not furnished,3580,11000,1084,140,15800
+Rio de Janeiro,73,2,1,0,4,acept,not furnished,375,830,120,11,1336
+Belo Horizonte,19,1,1,0,5,acept,not furnished,620,1100,85,15,1820
+Campinas,230,3,5,4,6,acept,not furnished,1800,7500,0,96,9396
+Porto Alegre,37,1,1,1,2,acept,not furnished,500,2500,0,37,3037
+São Paulo,124,3,2,3,7,acept,not furnished,1450,6600,300,84,8434
+Rio de Janeiro,115,3,2,1,8,acept,furnished,1090,2680,114,35,3919
+Campinas,600,3,3,4,-,acept,not furnished,0,5500,384,83,5967
+Porto Alegre,35,1,1,0,1,acept,not furnished,100,815,17,12,944
+Belo Horizonte,15,1,1,0,3,not acept,furnished,0,1100,0,15,1115
+Campinas,80,3,2,1,2,acept,not furnished,570,1450,125,19,2164
+Porto Alegre,48,1,1,0,4,acept,not furnished,200,700,38,11,949
+Belo Horizonte,96,3,2,1,2,acept,not furnished,922,1500,137,20,2579
+São Paulo,150,3,2,1,7,acept,furnished,1843,6715,340,86,8984
+Belo Horizonte,105,3,2,2,2,not acept,not furnished,1681,3300,390,44,5415
+Belo Horizonte,204,4,4,4,22,not acept,furnished,2701,10000,760,134,13600
+Rio de Janeiro,125,3,1,2,11,acept,not furnished,1317,2600,170,33,4120
+Rio de Janeiro,50,2,1,0,3,not acept,not furnished,490,2300,50,30,2870
+São Paulo,250,3,4,3,-,not acept,not furnished,0,3740,234,57,4031
+São Paulo,300,3,4,3,7,acept,furnished,3000,2000,1250,26,6276
+São Paulo,80,2,1,1,-,acept,not furnished,0,1500,55,23,1578
+Rio de Janeiro,130,3,4,1,2,not acept,not furnished,1200,1400,334,19,2953
+São Paulo,120,2,3,0,2,acept,not furnished,904,3300,195,42,4441
+São Paulo,23,1,1,0,23,acept,not furnished,392,2100,41,27,2560
+São Paulo,15,1,1,0,-,not acept,furnished,0,2500,0,32,2532
+São Paulo,72,1,2,2,19,acept,not furnished,900,4000,200,51,5151
+Rio de Janeiro,95,3,2,2,7,acept,not furnished,985,2300,122,30,3437
+São Paulo,330,4,5,4,13,acept,not furnished,2870,10000,1119,127,14120
+São Paulo,75,2,2,2,7,not acept,furnished,1600,6600,400,84,8684
+São Paulo,53,1,1,1,4,acept,not furnished,690,4398,200,56,5344
+São Paulo,178,3,2,1,2,not acept,not furnished,1200,1900,180,25,3305
+São Paulo,150,3,2,0,-,acept,not furnished,0,4000,24,61,4085
+São Paulo,50,2,1,1,4,acept,not furnished,520,1200,30,16,1766
+São Paulo,150,3,2,1,-,not acept,not furnished,0,2500,59,38,2597
+Porto Alegre,25,1,1,0,-,acept,furnished,286,984,11,15,1296
+Belo Horizonte,75,3,2,1,4,acept,not furnished,600,1500,75,20,2195
+São Paulo,350,4,4,0,-,acept,not furnished,0,8000,989,121,9110
+Porto Alegre,49,2,1,1,7,acept,not furnished,360,1150,30,17,1557
+Porto Alegre,40,1,1,0,4,not acept,furnished,0,2000,0,30,2030
+São Paulo,45,1,1,1,2,not acept,furnished,1900,4200,350,54,6504
+São Paulo,46,1,1,1,8,not acept,furnished,900,7600,118,97,8715
+São Paulo,80,2,2,2,15,acept,not furnished,2000,11000,0,140,13140
+São Paulo,30,1,1,0,3,acept,furnished,400,2850,0,37,3287
+São Paulo,80,2,2,2,-,acept,not furnished,50,2200,173,34,2457
+Rio de Janeiro,105,2,2,1,10,acept,not furnished,1780,1530,134,20,3464
+Belo Horizonte,105,3,2,2,7,acept,not furnished,1170,2000,219,27,3416
+São Paulo,114,3,1,0,-,acept,not furnished,0,2570,150,39,2759
+São Paulo,200,3,3,4,-,acept,not furnished,0,7000,425,106,7531
+Porto Alegre,120,3,3,2,5,acept,not furnished,800,3000,167,44,4011
+São Paulo,60,2,2,1,11,acept,not furnished,647,4000,21,51,4719
+São Paulo,90,2,1,1,1,acept,not furnished,1000,3000,50,39,4089
+Rio de Janeiro,53,2,1,0,3,not acept,not furnished,535,1800,50,24,2409
+São Paulo,80,2,2,5,-,acept,not furnished,0,3000,59,46,3105
+Campinas,87,4,2,2,4,acept,not furnished,784,1600,106,21,2511
+Rio de Janeiro,110,3,1,1,1,acept,not furnished,557,5000,188,65,5810
+Belo Horizonte,113,4,2,1,3,acept,not furnished,1587,4000,429,54,6070
+São Paulo,170,3,2,2,5,not acept,not furnished,2199,5000,423,64,7686
+São Paulo,150,3,2,0,1,not acept,not furnished,700,3000,42,39,3781
+Porto Alegre,60,2,2,1,11,acept,not furnished,469,1500,51,22,2042
+Porto Alegre,43,1,1,0,4,not acept,furnished,290,2100,66,31,2487
+São Paulo,130,3,2,2,4,acept,furnished,800,3500,0,45,4345
+São Paulo,69,3,2,0,7,acept,furnished,650,1900,185,25,2760
+Campinas,306,3,2,2,-,acept,not furnished,0,2500,422,38,2960
+São Paulo,187,3,2,3,-,acept,not furnished,500,3500,193,53,4246
+São Paulo,385,3,4,3,-,acept,not furnished,0,9000,1500,136,10640
+São Paulo,355,4,4,3,-,acept,not furnished,0,7300,660,110,8070
+Porto Alegre,90,2,1,1,2,acept,not furnished,405,1100,380,17,1902
+São Paulo,190,3,4,4,-,acept,not furnished,0,5000,275,76,5351
+Campinas,181,2,1,2,-,acept,not furnished,0,1400,132,22,1554
+São Paulo,350,3,5,4,13,acept,not furnished,4000,3490,1750,45,9285
+Belo Horizonte,168,5,3,2,2,acept,not furnished,1443,2900,408,39,4790
+Rio de Janeiro,73,2,1,0,1,acept,not furnished,1600,2800,204,37,4641
+São Paulo,378,5,5,4,4,acept,not furnished,4000,3000,2000,39,9039
+Campinas,60,2,1,1,-,acept,not furnished,0,1300,180,20,1500
+São Paulo,90,3,2,0,-,acept,not furnished,0,1700,136,26,1862
+Rio de Janeiro,42,1,1,0,4,not acept,furnished,500,1973,79,26,2578
+Rio de Janeiro,56,2,1,1,18,acept,not furnished,568,1000,88,13,1669
+São Paulo,16,1,1,0,1,not acept,not furnished,0,850,30,11,891
+São Paulo,90,2,2,2,15,not acept,furnished,1400,10000,0,127,11530
+Belo Horizonte,67,1,1,0,13,acept,not furnished,375,850,55,12,1292
+Rio de Janeiro,30,1,1,0,10,acept,not furnished,850,1100,60,15,2025
+São Paulo,290,6,3,4,-,acept,not furnished,0,8000,1525,121,9646
+São Paulo,266,3,3,4,10,acept,not furnished,4700,6400,1500,82,12680
+Campinas,47,2,1,1,4,acept,not furnished,260,900,25,12,1197
+Rio de Janeiro,590,6,6,2,-,acept,furnished,750,8000,975,122,9847
+São Paulo,86,2,1,1,-,acept,not furnished,0,2200,110,34,2344
+Porto Alegre,84,3,2,2,4,acept,not furnished,750,3300,100,49,4199
+São Paulo,160,3,1,2,-,acept,not furnished,0,5000,225,76,5301
+São Paulo,37,1,1,0,3,not acept,furnished,470,3500,127,45,4142
+Campinas,73,3,1,1,4,acept,not furnished,308,850,46,11,1215
+Rio de Janeiro,57,1,1,0,2,acept,not furnished,200,1100,10,15,1325
+Campinas,48,1,1,0,9,acept,not furnished,350,650,21,9,1030
+Rio de Janeiro,30,1,1,0,8,acept,not furnished,390,800,25,11,1226
+Campinas,198,6,3,4,-,acept,not furnished,0,2000,145,31,2176
+Porto Alegre,47,1,1,0,2,not acept,not furnished,300,1000,59,15,1374
+Porto Alegre,60,2,1,1,3,acept,not furnished,250,800,22,12,1084
+São Paulo,230,3,3,0,9,acept,furnished,1700,5000,109,64,6873
+Belo Horizonte,90,2,1,1,-,not acept,not furnished,0,1520,0,25,1545
+Rio de Janeiro,129,3,2,1,8,acept,furnished,1200,3255,167,42,4664
+São Paulo,240,4,4,4,22,acept,not furnished,1980,6672,417,85,9154
+Porto Alegre,55,1,1,0,14,acept,not furnished,700,1020,29,15,1764
+Porto Alegre,52,1,1,0,-,acept,not furnished,150,1200,42,18,1410
+São Paulo,250,3,4,3,8,acept,not furnished,1610,6000,1089,77,8776
+São Paulo,200,3,2,2,19,acept,not furnished,2573,10000,1121,127,13820
+Belo Horizonte,312,4,3,3,1,acept,not furnished,1498,2300,463,31,4292
+São Paulo,230,5,5,3,-,acept,not furnished,0,9900,620,149,10670
+São Paulo,72,2,2,2,9,acept,not furnished,750,2480,209,32,3471
+São Paulo,55,2,1,0,5,acept,furnished,620,2400,24,31,3075
+Rio de Janeiro,72,2,2,1,2,not acept,furnished,914,3600,133,47,4694
+São Paulo,50,2,1,0,-,acept,not furnished,0,1200,83,19,1302
+São Paulo,17,1,1,0,1,acept,not furnished,0,2700,5,35,2740
+Belo Horizonte,160,3,3,2,4,acept,not furnished,150,2400,263,32,2845
+São Paulo,214,4,4,3,5,acept,not furnished,2638,6520,1187,83,10430
+Rio de Janeiro,65,1,1,0,-,acept,not furnished,300,1800,30,24,2154
+São Paulo,136,3,2,1,10,not acept,furnished,1300,6500,267,47,8114
+Porto Alegre,70,2,2,1,6,acept,not furnished,440,1900,57,28,2425
+Porto Alegre,38,1,1,0,2,acept,not furnished,340,650,350,10,1350
+São Paulo,450,8,5,5,-,acept,not furnished,0,8000,1000,121,9121
+Rio de Janeiro,67,2,1,1,2,acept,not furnished,1217,2200,130,29,3576
+São Paulo,20,1,1,0,1,not acept,not furnished,0,1100,35,14,1149
+São Paulo,41,1,1,0,12,acept,not furnished,290,1530,60,20,1900
+São Paulo,50,2,1,1,7,acept,not furnished,500,1550,7,20,2077
+São Paulo,205,3,3,3,-,acept,not furnished,0,5525,575,84,6184
+São Paulo,100,3,2,1,-,acept,not furnished,0,3300,500,50,3850
+Belo Horizonte,45,2,1,0,-,acept,not furnished,0,1350,0,23,1373
+Campinas,57,1,1,1,2,acept,not furnished,605,800,66,11,1482
+Porto Alegre,88,1,2,2,3,acept,not furnished,340,1600,40,24,2004
+São Paulo,70,1,1,1,10,acept,furnished,459,3400,80,44,3983
+São Paulo,76,2,2,0,11,acept,furnished,646,2800,0,36,3482
+Rio de Janeiro,36,1,1,0,10,acept,not furnished,450,1370,29,18,1867
+Porto Alegre,61,2,2,2,11,acept,not furnished,445,2500,42,37,3024
+São Paulo,280,4,3,6,-,acept,furnished,0,12500,706,188,13390
+São Paulo,480,5,6,3,-,acept,not furnished,0,5000,1000,76,6076
+Campinas,45,1,1,1,17,acept,furnished,0,1950,0,25,1975
+São Paulo,42,1,1,0,9,acept,furnished,1290,1500,184,20,2994
+Porto Alegre,62,2,1,0,4,acept,not furnished,352,736,28,11,1127
+São Paulo,38,2,1,0,2,acept,not furnished,90,1500,0,20,1610
+São Paulo,44,1,1,1,8,not acept,furnished,578,2400,0,31,3009
+São Paulo,75,3,2,2,11,acept,not furnished,630,2800,167,36,3633
+Rio de Janeiro,66,2,1,1,2,acept,not furnished,650,1250,0,17,1917
+São Paulo,125,3,3,2,-,acept,not furnished,0,2800,38,43,2881
+Campinas,62,2,1,2,7,acept,not furnished,609,1500,90,20,2219
+São Paulo,77,2,1,1,5,acept,not furnished,1148,3100,464,40,4752
+São Paulo,136,2,4,2,7,acept,not furnished,1540,4800,242,61,6643
+São Paulo,200,4,2,1,5,acept,not furnished,2115,5000,328,64,7507
+São Paulo,35,1,1,0,1,not acept,not furnished,250,1305,0,17,1572
+São Paulo,250,4,3,2,-,acept,furnished,10,4500,100,68,4678
+São Paulo,90,2,2,2,-,acept,furnished,0,4100,0,62,4162
+Campinas,72,2,2,1,7,acept,not furnished,480,850,9,11,1350
+São Paulo,168,3,3,5,16,acept,not furnished,1675,3500,184,45,5404
+Campinas,38,1,1,1,9,acept,not furnished,500,740,30,10,1280
+São Paulo,23,1,1,1,26,acept,not furnished,487,2300,59,30,2876
+Porto Alegre,440,3,3,3,7,not acept,not furnished,100,10500,84,154,10840
+São Paulo,120,3,3,2,9,acept,furnished,1200,3500,109,45,4854
+Rio de Janeiro,90,2,2,0,5,acept,not furnished,830,2500,84,33,3447
+Porto Alegre,125,4,2,0,7,acept,not furnished,1006,1632,150,14,2802
+São Paulo,200,3,4,3,6,acept,furnished,1800,5058,1200,65,8123
+São Paulo,190,3,3,2,5,acept,not furnished,1800,3260,292,42,5394
+Belo Horizonte,123,3,2,1,3,acept,not furnished,363,2600,143,35,3141
+Campinas,53,2,1,1,-,acept,not furnished,284,2000,41,26,2351
+Rio de Janeiro,70,2,1,1,2,acept,not furnished,560,2180,60,29,2829
+São Paulo,90,2,2,2,17,acept,furnished,1500,12200,454,155,14310
+São Paulo,95,3,2,0,-,acept,not furnished,0,1590,0,24,1614
+Campinas,74,3,1,1,4,acept,not furnished,474,900,40,12,1426
+São Paulo,64,1,1,1,15,not acept,not furnished,620,3600,0,46,4266
+São Paulo,155,4,5,3,14,not acept,not furnished,1850,6000,625,77,8552
+Rio de Janeiro,125,3,1,2,3,not acept,not furnished,1000,2200,159,29,3388
+São Paulo,40,1,1,1,9,acept,furnished,350,1580,25,21,1976
+Porto Alegre,350,3,2,4,-,acept,furnished,0,6522,492,116,7130
+Belo Horizonte,417,3,5,8,-,acept,not furnished,0,7650,450,126,8226
+Porto Alegre,350,4,4,4,-,acept,not furnished,0,6000,192,107,6299
+São Paulo,40,1,1,1,8,not acept,not furnished,440,2800,100,36,3376
+São Paulo,30,1,1,1,15,not acept,furnished,668,3500,127,45,4340
+São Paulo,142,3,4,2,4,acept,not furnished,1100,4500,375,58,6033
+Porto Alegre,110,3,3,2,5,acept,furnished,1300,4000,300,59,5659
+São Paulo,100,4,4,1,-,acept,not furnished,0,10000,9,151,10160
+São Paulo,377,5,4,3,-,acept,not furnished,0,8000,900,121,9021
+São Paulo,230,2,3,3,17,acept,furnished,2575,8000,633,102,11310
+São Paulo,35,1,1,0,5,not acept,furnished,450,1800,91,7,2348
+São Paulo,32,1,1,1,16,acept,not furnished,533,2900,0,37,3470
+São Paulo,74,2,1,1,5,acept,not furnished,569,2024,71,8,2672
+São Paulo,147,2,3,4,19,acept,not furnished,2600,1200,375,16,4191
+São Paulo,35,1,1,0,3,acept,furnished,480,2500,60,32,3072
+Rio de Janeiro,26,1,1,0,7,acept,furnished,630,1500,84,20,2234
+São Paulo,70,2,2,1,5,acept,furnished,517,1700,5,22,2244
+São Paulo,150,3,3,3,19,acept,furnished,1800,2800,740,36,5376
+São Paulo,200,3,3,2,-,acept,not furnished,0,8000,292,121,8413
+Campinas,60,1,1,1,14,acept,not furnished,583,1100,49,14,1746
+São Paulo,250,4,5,3,2,acept,not furnished,1700,2550,334,33,4617
+São Paulo,44,1,2,0,12,not acept,furnished,3300,3300,126,42,6768
+São Paulo,250,7,5,2,-,acept,furnished,0,6000,0,91,6091
+São Paulo,157,3,2,0,7,acept,not furnished,1325,4500,347,58,6230
+São Paulo,97,2,2,0,1,acept,not furnished,1200,5600,0,71,6871
+São Paulo,28,1,1,0,1,acept,not furnished,0,1325,0,17,1342
+São Paulo,250,3,4,0,1,acept,furnished,2000,10000,1667,127,13790
+Belo Horizonte,193,4,2,2,-,acept,not furnished,0,8900,255,146,9301
+Belo Horizonte,428,5,5,4,-,acept,furnished,0,9600,667,158,10430
+São Paulo,50,2,1,0,2,not acept,not furnished,200,950,0,13,1163
+São Paulo,135,2,3,2,5,not acept,not furnished,2000,12300,542,156,15000
+Rio de Janeiro,103,2,2,1,8,acept,not furnished,530,1600,221,21,2372
+Campinas,103,3,2,2,2,acept,not furnished,1500,1360,292,18,3170
+São Paulo,80,3,2,1,-,acept,not furnished,740,1500,150,20,2410
+São Paulo,160,3,3,2,10,acept,not furnished,1229,4000,390,51,5670
+São Paulo,238,4,3,4,24,acept,not furnished,2980,10200,1816,130,15130
+Belo Horizonte,500,7,4,4,-,acept,not furnished,0,5500,167,91,5758
+São Paulo,580,5,5,4,4,acept,not furnished,9900,15000,2200,191,27290
+São Paulo,80,1,1,0,-,acept,not furnished,0,1370,50,21,1441
+São Paulo,210,4,5,3,12,acept,furnished,2620,2975,1184,38,6817
+Porto Alegre,106,3,3,1,7,acept,not furnished,900,2250,186,33,3369
+Rio de Janeiro,30,1,1,0,11,acept,not furnished,500,1200,21,16,1737
+São Paulo,156,3,2,1,-,acept,not furnished,0,2000,147,31,2178
+São Paulo,60,1,1,1,-,acept,not furnished,0,1250,0,19,1269
+São Paulo,200,3,4,0,2,acept,not furnished,3672,3600,780,46,8098
+São Paulo,70,2,2,0,1,acept,not furnished,280,1000,138,13,1431
+São Paulo,177,4,5,4,5,acept,not furnished,1500,9200,959,117,11780
+São Paulo,103,3,3,2,-,acept,not furnished,735,2500,19,38,3292
+São Paulo,440,4,4,4,-,acept,not furnished,0,12000,2500,181,14680
+São Paulo,65,2,1,1,8,acept,furnished,600,1700,92,22,2414
+Belo Horizonte,260,5,3,3,12,acept,not furnished,2000,4000,487,54,6541
+São Paulo,200,4,4,6,-,acept,not furnished,0,4320,375,65,4760
+São Paulo,96,3,2,1,12,acept,not furnished,1122,3050,231,39,4442
+São Paulo,68,2,2,1,2,acept,furnished,690,2900,137,37,3764
+Belo Horizonte,300,5,5,5,-,not acept,not furnished,0,4500,450,74,5024
+São Paulo,34,1,1,0,2,acept,not furnished,305,750,27,10,1092
+Campinas,398,5,6,0,2,acept,not furnished,3500,8500,700,108,12810
+Belo Horizonte,100,1,1,0,1,acept,not furnished,0,2600,0,35,2635
+Belo Horizonte,176,4,5,3,6,acept,furnished,2136,6500,704,87,9427
+Belo Horizonte,90,2,2,2,4,not acept,furnished,500,4000,250,54,4804
+Belo Horizonte,680,7,6,8,-,acept,not furnished,0,8000,428,132,8560
+Belo Horizonte,220,4,3,0,9,acept,furnished,3000,15000,1138,200,19340
+São Paulo,110,2,2,2,-,not acept,not furnished,0,2120,174,32,2326
+São Paulo,180,3,2,1,2,acept,furnished,1260,5500,255,70,7085
+São Paulo,36,1,1,1,8,acept,not furnished,410,1800,93,8,2311
+Belo Horizonte,450,4,4,4,8,acept,not furnished,2394,12700,836,170,16100
+Rio de Janeiro,103,3,2,0,1,acept,not furnished,812,3300,336,43,4491
+Porto Alegre,101,2,2,2,5,acept,not furnished,480,1800,500,27,2807
+São Paulo,196,4,4,0,11,acept,not furnished,2450,6000,1458,77,9985
+Rio de Janeiro,28,1,1,0,-,acept,not furnished,495,1980,68,26,2569
+São Paulo,260,3,4,4,-,acept,not furnished,0,4500,0,68,4568
+São Paulo,330,4,2,5,-,acept,not furnished,0,1870,400,29,2299
+Rio de Janeiro,70,3,2,1,6,acept,not furnished,607,1189,96,16,1908
+Rio de Janeiro,33,1,1,0,3,acept,not furnished,500,1200,13,16,1729
+São Paulo,160,3,3,2,3,acept,not furnished,2200,10500,505,134,13340
+São Paulo,60,2,1,1,9,acept,not furnished,506,1350,42,18,1916
+São Paulo,36,1,1,1,1,acept,not furnished,130,1379,99,10,1618
+São Paulo,20,1,1,0,1,acept,furnished,0,2060,0,27,2087
+Porto Alegre,70,2,1,0,1,acept,not furnished,375,750,26,11,1162
+São Paulo,180,3,4,4,-,acept,furnished,0,4700,2,71,4773
+São Paulo,105,3,3,1,5,acept,not furnished,980,2150,0,28,3158
+São Paulo,275,4,5,4,1,acept,not furnished,4200,9700,1334,123,15360
+Belo Horizonte,450,2,2,5,-,acept,not furnished,0,1512,71,25,1608
+Campinas,360,4,6,4,-,acept,not furnished,864,7700,300,116,8980
+São Paulo,140,2,2,1,5,not acept,furnished,700,1900,150,25,2775
+São Paulo,900,3,5,8,-,acept,not furnished,0,8000,2250,121,10370
+Porto Alegre,152,3,5,3,9,acept,not furnished,1600,6000,321,88,8009
+São Paulo,280,3,4,3,-,acept,furnished,0,8000,500,121,8621
+São Paulo,230,4,4,3,5,not acept,not furnished,2564,2500,934,32,6030
+Campinas,92,3,2,3,6,acept,not furnished,700,2100,167,27,2994
+Belo Horizonte,58,1,1,1,-,acept,not furnished,0,1100,34,19,1153
+Campinas,41,2,1,1,5,not acept,not furnished,248,1193,0,16,1457
+São Paulo,206,4,4,3,10,acept,not furnished,1890,12000,917,153,14960
+Campinas,214,3,3,2,1,acept,not furnished,2016,5900,227,75,8218
+São Paulo,110,2,2,1,18,acept,not furnished,1286,1710,0,22,3018
+Belo Horizonte,100,2,1,0,-,acept,not furnished,0,777,25,13,815
+Belo Horizonte,80,2,2,1,4,acept,not furnished,250,1200,0,16,1466
+Campinas,96,3,2,2,10,acept,not furnished,800,3200,189,41,4230
+Rio de Janeiro,140,4,2,1,1,not acept,not furnished,1700,6000,380,78,8158
+São Paulo,138,3,3,2,17,acept,not furnished,1100,7070,382,90,8642
+São Paulo,140,3,3,1,6,acept,furnished,2200,3900,359,50,6509
+Rio de Janeiro,60,2,2,1,2,not acept,not furnished,592,1250,0,17,1859
+São Paulo,40,1,1,0,-,not acept,not furnished,0,600,34,10,644
+São Paulo,178,3,4,4,6,acept,furnished,2700,10200,667,130,13700
+São Paulo,140,3,3,2,-,acept,furnished,0,4900,25,74,4999
+São Paulo,72,2,1,0,1,acept,not furnished,864,1020,0,13,1897
+São Paulo,117,2,1,1,5,not acept,furnished,720,2700,11,35,3466
+São Paulo,35,1,1,1,1,acept,not furnished,0,977,30,13,1020
+Porto Alegre,42,1,1,0,1,acept,furnished,360,890,0,13,1263
+Belo Horizonte,29,1,1,0,1,acept,not furnished,0,1100,8,15,1123
+São Paulo,130,2,1,0,1,acept,not furnished,650,2150,9,28,2837
+Rio de Janeiro,100,3,2,1,4,acept,not furnished,2350,5000,333,65,7748
+Rio de Janeiro,39,1,1,0,4,acept,not furnished,450,609,44,8,1111
+São Paulo,61,1,1,0,9,not acept,not furnished,394,1600,0,21,2015
+Campinas,750,4,5,5,-,not acept,not furnished,0,10400,667,157,11220
+Belo Horizonte,142,4,3,2,3,acept,not furnished,900,2700,277,36,3913
+Campinas,650,4,4,8,-,acept,not furnished,0,7500,200,113,7813
+São Paulo,69,2,2,0,-,acept,not furnished,0,1700,73,26,1799
+São Paulo,100,2,2,4,-,acept,not furnished,0,2600,46,40,2686
+Belo Horizonte,300,4,2,2,3,acept,not furnished,1750,8000,500,107,10360
+São Paulo,190,3,4,3,14,acept,furnished,1700,2740,900,35,5375
+Rio de Janeiro,115,2,2,0,13,acept,not furnished,950,4500,2731,58,8239
+Campinas,119,3,1,1,5,acept,not furnished,926,1200,100,16,2242
+São Paulo,100,2,3,1,4,acept,furnished,1200,1890,42,24,3156
+São Paulo,55,2,1,1,3,acept,not furnished,400,1087,0,14,1501
+São Paulo,44,1,1,1,2,acept,furnished,724,3000,89,39,3852
+São Paulo,316,4,6,4,18,acept,furnished,4767,8000,1963,102,14830
+São Paulo,83,2,3,2,-,acept,not furnished,200,3500,167,53,3920
+São Paulo,150,3,2,1,8,acept,not furnished,1172,4800,0,61,6033
+São Paulo,53,2,1,1,7,acept,not furnished,450,4200,42,54,4746
+São Paulo,49,2,1,1,-,acept,not furnished,400,970,4,13,1387
+Campinas,185,3,3,2,6,acept,not furnished,1200,2200,100,28,3528
+Rio de Janeiro,40,1,1,0,-,acept,not furnished,0,1200,20,19,1239
+São Paulo,65,2,1,0,3,acept,not furnished,654,1140,9,15,1818
+São Paulo,67,3,2,1,10,not acept,not furnished,496,1560,72,20,2148
+São Paulo,46,1,1,1,9,acept,not furnished,500,2200,35,28,2763
+Campinas,205,3,2,1,2,acept,not furnished,950,2200,156,28,3334
+Porto Alegre,550,5,5,3,-,acept,not furnished,0,9000,500,160,9660
+Campinas,50,1,1,1,3,acept,not furnished,393,650,33,9,1085
+São Paulo,266,4,5,4,7,acept,not furnished,2900,10900,1167,139,15110
+Rio de Janeiro,280,3,2,2,10,acept,furnished,3140,8000,1126,104,12370
+São Paulo,1600,6,6,6,-,acept,furnished,0,7600,1834,115,9549
+São Paulo,70,1,1,0,4,acept,not furnished,760,2400,156,31,3347
+São Paulo,84,3,2,2,8,not acept,not furnished,700,2340,250,30,3320
+Belo Horizonte,40,1,1,0,3,not acept,not furnished,496,1000,116,14,1626
+Rio de Janeiro,117,3,2,1,7,acept,not furnished,750,4110,384,53,5297
+São Paulo,68,2,2,2,8,acept,furnished,1030,3430,236,44,4740
+Belo Horizonte,140,2,2,2,11,acept,furnished,692,2800,104,38,3634
+São Paulo,450,4,2,3,-,acept,not furnished,0,13000,1000,196,14200
+Porto Alegre,44,1,2,0,3,acept,not furnished,140,1350,100,20,1610
+São Paulo,40,1,1,1,3,acept,furnished,686,3200,52,41,3979
+São Paulo,70,1,2,1,1,acept,furnished,1300,8250,209,105,9864
+São Paulo,50,1,2,0,-,acept,not furnished,0,900,50,14,964
+Belo Horizonte,405,2,3,0,7,acept,not furnished,3500,4000,699,54,8253
+São Paulo,75,2,2,1,1,acept,not furnished,700,3160,165,41,4066
+Belo Horizonte,80,3,3,1,3,acept,not furnished,560,1501,0,20,2081
+São Paulo,450,4,5,6,-,acept,not furnished,0,12000,1334,181,13520
+São Paulo,225,4,5,4,10,acept,furnished,1600,7106,0,91,8797
+São Paulo,250,3,2,3,35,acept,furnished,2500,15000,1084,191,18780
+São Paulo,60,2,1,1,5,not acept,not furnished,965,2200,165,28,3358
+São Paulo,31,1,1,1,9,not acept,furnished,1500,3400,150,44,5094
+São Paulo,100,3,1,3,-,acept,not furnished,0,2000,164,31,2195
+Belo Horizonte,20,1,1,0,6,not acept,not furnished,420,1050,79,14,1563
+São Paulo,200,3,4,8,-,acept,not furnished,0,7000,25,106,7131
+Campinas,50,1,1,1,8,acept,not furnished,780,1690,62,22,2554
+São Paulo,61,3,2,2,15,acept,not furnished,712,2200,90,28,3030
+São Paulo,200,3,4,2,3,acept,not furnished,4475,9800,820,125,15220
+Belo Horizonte,100,2,2,0,-,acept,not furnished,0,11000,100,181,11280
+São Paulo,38,1,1,0,13,acept,not furnished,414,3000,64,39,3517
+Rio de Janeiro,49,2,1,0,4,acept,not furnished,362,1350,58,18,1788
+São Paulo,207,3,5,4,6,acept,not furnished,2400,12000,934,153,15490
+Campinas,82,3,2,1,6,acept,not furnished,825,1500,142,20,2487
+São Paulo,400,5,4,3,-,acept,not furnished,0,4000,250,61,4311
+Rio de Janeiro,170,4,2,2,6,acept,not furnished,2420,9000,834,116,12370
+Porto Alegre,105,3,2,2,3,acept,furnished,370,2890,217,43,3520
+São Paulo,383,4,4,5,2,acept,not furnished,2189,3004,709,39,5941
+São Paulo,168,3,3,3,3,acept,not furnished,1605,2700,322,35,4662
+São Paulo,53,2,2,1,10,acept,furnished,1940,2400,389,31,4760
+Porto Alegre,320,4,3,2,-,acept,not furnished,0,4500,125,80,4705
+São Paulo,300,3,4,3,18,acept,not furnished,3500,9900,834,126,14360
+Campinas,100,3,2,3,-,acept,not furnished,0,2200,0,34,2234
+São Paulo,40,1,1,0,-,acept,not furnished,0,900,80,12,992
+São Paulo,180,3,1,0,-,acept,not furnished,0,2500,334,38,2872
+São Paulo,257,4,5,4,8,acept,furnished,2730,7500,1107,96,11430
+São Paulo,178,2,4,2,2,acept,not furnished,2300,7000,891,89,10280
+São Paulo,179,3,3,0,9,not acept,furnished,1828,12000,472,153,14450
+Porto Alegre,64,2,1,0,1,acept,not furnished,300,1750,42,26,2118
+Porto Alegre,60,2,1,0,1,acept,not furnished,326,990,25,15,1356
+São Paulo,55,1,1,1,11,not acept,not furnished,696,2200,148,28,3072
+São Paulo,50,1,1,0,8,not acept,not furnished,470,1970,0,25,2465
+São Paulo,82,3,2,2,19,not acept,not furnished,470,1994,0,26,2490
+Rio de Janeiro,60,1,1,1,7,acept,not furnished,650,1210,106,16,1982
+Porto Alegre,40,1,1,1,9,not acept,furnished,1300,1200,68,18,2586
+Campinas,230,4,4,8,-,acept,not furnished,0,5100,320,77,5497
+São Paulo,73,2,1,1,2,acept,not furnished,680,1300,20,17,2017
+São Paulo,79,2,2,1,1,acept,furnished,600,2000,75,26,2701
+São Paulo,230,3,4,2,3,acept,not furnished,2000,4800,292,61,7153
+São Paulo,120,2,1,0,-,acept,not furnished,0,1500,90,23,1613
+São Paulo,200,4,2,1,-,not acept,not furnished,0,2500,334,38,2872
+Porto Alegre,85,3,2,2,9,not acept,furnished,940,3300,102,49,4391
+São Paulo,45,1,1,1,1,not acept,furnished,3000,5520,0,70,8590
+Porto Alegre,30,1,1,0,4,acept,not furnished,198,755,22,12,987
+São Paulo,57,2,2,1,3,acept,not furnished,476,2300,0,30,2806
+São Paulo,20,1,1,0,3,not acept,not furnished,224,1530,0,20,1774
+Porto Alegre,100,2,2,1,-,not acept,not furnished,0,1346,0,24,1370
+Porto Alegre,240,4,3,5,-,acept,not furnished,0,2500,120,45,2665
+São Paulo,95,3,2,2,10,acept,not furnished,900,7000,142,89,8131
+São Paulo,35,1,1,1,6,acept,not furnished,542,2100,99,27,2768
+Belo Horizonte,325,5,4,7,-,acept,furnished,0,8900,417,146,9463
+São Paulo,58,3,1,1,1,acept,furnished,456,2800,21,36,3313
+São Paulo,200,4,4,3,6,not acept,not furnished,1400,9000,1000,115,11520
+São Paulo,92,3,2,2,2,acept,not furnished,1407,1100,250,14,2771
+Belo Horizonte,65,2,1,1,9,acept,not furnished,450,1545,94,7,2096
+Campinas,57,2,1,0,2,acept,not furnished,378,800,31,11,1220
+São Paulo,50,2,1,1,2,acept,not furnished,400,1600,0,21,2021
+São Paulo,165,4,5,2,4,acept,furnished,2500,9500,315,121,12440
+Rio de Janeiro,70,2,1,1,6,acept,not furnished,900,1900,122,25,2947
+São Paulo,230,4,3,1,1,not acept,not furnished,2400,4000,513,51,6964
+Rio de Janeiro,34,1,1,0,3,not acept,furnished,820,2000,114,26,2960
+Rio de Janeiro,25,1,1,0,-,not acept,not furnished,0,660,0,11,671
+São Paulo,50,2,1,1,2,acept,not furnished,0,1800,0,23,1823
+Porto Alegre,120,3,2,2,2,acept,furnished,700,2975,155,44,3874
+Porto Alegre,60,2,1,1,-,acept,not furnished,0,1400,96,25,1521
+São Paulo,67,2,2,1,8,acept,not furnished,980,2240,215,29,3464
+São Paulo,22,1,1,0,26,acept,not furnished,384,2100,40,27,2551
+São Paulo,197,3,1,2,-,acept,not furnished,0,2100,290,32,2422
+Porto Alegre,105,3,3,1,3,acept,furnished,1300,2300,130,34,3764
+São Paulo,80,2,2,1,-,not acept,not furnished,0,1556,0,8,1564
+Belo Horizonte,140,4,2,2,5,not acept,not furnished,820,2500,253,34,3607
+Rio de Janeiro,70,2,2,1,9,acept,not furnished,1200,4000,184,52,5436
+Porto Alegre,383,5,5,4,-,acept,not furnished,0,10000,250,178,10430
+São Paulo,172,3,4,3,5,acept,not furnished,1650,9000,900,115,11670
+Porto Alegre,57,2,2,1,6,not acept,not furnished,425,1800,75,27,2327
+São Paulo,32,1,1,1,23,acept,not furnished,1800,2000,416,26,4242
+Belo Horizonte,341,10,6,7,-,acept,not furnished,0,5500,459,91,6050
+Belo Horizonte,600,5,6,8,-,acept,furnished,0,10500,642,173,11320
+São Paulo,43,2,1,1,13,not acept,not furnished,307,2000,18,26,2351
+Campinas,98,3,2,1,1,acept,not furnished,727,1233,84,16,2060
+São Paulo,36,2,1,0,6,acept,not furnished,590,1790,0,23,2403
+Rio de Janeiro,42,1,1,0,4,acept,furnished,500,2800,79,37,3416
+Campinas,120,3,3,3,8,not acept,not furnished,700,2700,167,35,3602
+Rio de Janeiro,78,2,2,1,8,acept,not furnished,720,1400,290,19,2429
+São Paulo,113,3,4,2,7,acept,not furnished,1600,4000,591,51,6242
+São Paulo,47,2,1,1,1,not acept,not furnished,560,1390,0,18,1968
+São Paulo,60,2,2,1,5,acept,not furnished,478,1300,0,17,1795
+Porto Alegre,77,2,1,0,1,not acept,not furnished,0,1130,25,17,1172
+Porto Alegre,75,2,2,1,3,acept,not furnished,200,1500,142,22,1864
+São Paulo,60,3,1,1,3,acept,not furnished,470,1550,0,20,2040
+São Paulo,240,3,4,3,9,acept,not furnished,2100,5800,825,74,8799
+São Paulo,48,1,1,1,4,acept,not furnished,633,3400,114,44,4191
+Belo Horizonte,70,3,1,1,8,acept,not furnished,395,1300,71,18,1784
+Belo Horizonte,345,3,3,0,-,not acept,furnished,0,3500,150,58,3708
+São Paulo,158,4,4,3,4,acept,furnished,1990,3500,589,45,6124
+Porto Alegre,55,2,1,1,-,acept,furnished,0,1300,34,24,1358
+Rio de Janeiro,80,2,1,1,17,acept,not furnished,866,1820,235,24,2945
+Porto Alegre,42,1,1,1,11,acept,not furnished,500,2200,50,33,2783
+São Paulo,80,3,3,2,20,acept,not furnished,600,4450,242,57,5349
+São Paulo,50,1,1,0,1,acept,not furnished,519,1550,28,20,2117
+São Paulo,85,2,2,1,6,acept,furnished,1200,5300,67,68,6635
+Belo Horizonte,120,4,3,2,1,acept,not furnished,0,3250,0,44,3294
+São Paulo,214,4,5,4,6,acept,not furnished,2235,3251,1026,42,6554
+São Paulo,277,4,4,6,5,acept,not furnished,4200,3800,1947,49,9996
+Campinas,50,2,1,1,4,acept,not furnished,330,1080,0,14,1424
+Belo Horizonte,90,3,2,2,2,not acept,not furnished,530,2000,159,27,2716
+São Paulo,287,4,5,2,-,acept,furnished,0,6000,317,91,6408
+São Paulo,11,1,1,0,1,not acept,furnished,300,2000,42,26,2368
+Porto Alegre,62,2,1,1,7,not acept,not furnished,485,1620,54,24,2183
+São Paulo,45,1,1,1,7,not acept,furnished,522,3100,120,40,3782
+Porto Alegre,80,2,1,1,1,acept,not furnished,200,1650,70,25,1945
+São Paulo,115,3,3,2,5,not acept,not furnished,1000,4890,234,62,6186
+Porto Alegre,110,2,2,1,3,acept,furnished,600,1800,152,27,2579
+São Paulo,162,3,3,2,4,acept,not furnished,1756,7000,367,89,9212
+Rio de Janeiro,85,3,2,1,4,acept,not furnished,1250,1800,306,24,3380
+Belo Horizonte,105,4,3,3,5,acept,not furnished,1148,1900,228,26,3302
+São Paulo,180,2,2,5,-,acept,not furnished,1,3000,1,46,3048
+Rio de Janeiro,80,2,1,0,9,acept,not furnished,330,831,159,11,1331
+São Paulo,56,2,1,1,6,acept,not furnished,680,2200,11,28,2919
+São Paulo,70,2,1,1,15,acept,not furnished,1049,1200,35,16,2300
+Rio de Janeiro,70,1,2,1,6,not acept,not furnished,1100,1200,85,16,2401
+Belo Horizonte,75,3,1,1,4,not acept,not furnished,482,1000,145,14,1641
+São Paulo,420,4,6,4,-,acept,not furnished,300,6500,417,98,7315
+São Paulo,279,3,3,8,-,acept,furnished,0,3500,182,53,3735
+São Paulo,160,4,4,2,-,acept,not furnished,0,2400,0,37,2437
+São Paulo,41,1,1,0,-,acept,not furnished,250,1100,0,14,1364
+São Paulo,97,2,2,2,3,acept,not furnished,1400,2200,42,28,3670
+Porto Alegre,40,1,1,1,7,acept,furnished,400,1400,36,21,1857
+São Paulo,110,3,2,1,5,acept,furnished,1217,3600,215,46,5078
+Belo Horizonte,298,4,3,2,3,acept,furnished,330,2500,300,34,3164
+Belo Horizonte,87,4,2,2,2,acept,not furnished,370,1600,160,22,2152
+São Paulo,150,5,5,4,3,not acept,furnished,1800,3700,917,47,6464
+São Paulo,113,3,2,2,8,acept,not furnished,1750,2975,359,38,5122
+Belo Horizonte,293,6,2,3,-,acept,not furnished,0,2600,138,43,2781
+São Paulo,90,3,2,2,1,acept,not furnished,1017,2000,165,26,3208
+Belo Horizonte,305,4,3,3,14,acept,not furnished,2500,9000,660,120,12280
+Campinas,50,2,1,1,-,not acept,not furnished,0,1040,277,14,1331
+São Paulo,150,3,3,2,-,acept,not furnished,0,3300,135,50,3485
+Rio de Janeiro,50,2,1,0,9,acept,furnished,505,2350,64,31,2950
+São Paulo,230,3,4,3,7,not acept,not furnished,3200,8000,1167,102,12470
+São Paulo,125,3,3,1,6,acept,furnished,1600,5500,247,70,7417
+Rio de Janeiro,140,3,2,1,4,acept,not furnished,1100,1350,95,18,2563
+São Paulo,63,3,2,0,18,acept,not furnished,550,1800,0,23,2373
+São Paulo,110,2,1,1,21,acept,not furnished,975,3300,234,42,4551
+São Paulo,54,2,1,1,13,acept,not furnished,480,1610,0,21,2111
+Porto Alegre,67,2,1,0,3,acept,not furnished,330,1523,50,23,1926
+São Paulo,296,3,4,4,2,acept,not furnished,1860,8864,0,113,10840
+Belo Horizonte,70,2,1,1,-,acept,not furnished,0,1000,75,17,1092
+São Paulo,50,2,1,0,-,not acept,not furnished,50,1100,0,17,1167
+São Paulo,160,3,2,4,-,not acept,not furnished,0,3500,0,53,3553
+São Paulo,60,2,2,1,14,not acept,not furnished,460,2200,20,28,2708
+São Paulo,220,3,4,3,12,acept,furnished,3120,8000,1034,102,12260
+São Paulo,340,4,3,8,-,acept,not furnished,0,13000,1167,196,14360
+São Paulo,52,2,1,0,1,not acept,not furnished,50,1150,34,15,1249
+Belo Horizonte,50,2,1,1,1,acept,not furnished,100,915,63,13,1091
+Belo Horizonte,60,2,1,0,3,acept,not furnished,290,2200,80,30,2600
+São Paulo,125,3,3,3,-,acept,not furnished,100,2450,15,37,2602
+São Paulo,36,2,1,0,-,not acept,not furnished,0,1080,0,17,1097
+Belo Horizonte,100,3,2,1,5,acept,not furnished,730,1500,120,20,2370
+São Paulo,550,4,7,3,-,acept,furnished,0,11500,1650,173,13320
+São Paulo,60,3,1,2,4,not acept,not furnished,383,1105,0,14,1502
+Campinas,48,1,1,0,4,not acept,not furnished,490,500,17,7,1014
+São Paulo,164,3,3,1,3,acept,furnished,1795,9000,210,115,11120
+Belo Horizonte,90,3,2,1,2,acept,not furnished,280,1200,100,16,1596
+Porto Alegre,78,3,2,1,4,acept,not furnished,450,2800,75,41,3366
+São Paulo,44,2,1,0,1,acept,not furnished,260,1125,0,15,1400
+Belo Horizonte,180,3,3,2,1,acept,not furnished,1500,2950,267,40,4757
+Campinas,82,3,2,1,1,acept,not furnished,650,1200,100,16,1966
+São Paulo,49,1,1,1,7,acept,furnished,830,2900,139,37,3906
+São Paulo,400,5,4,5,-,not acept,not furnished,0,13970,417,210,14590
+São Paulo,74,2,3,2,26,acept,not furnished,450,3200,40,41,3731
+São Paulo,110,2,1,1,-,acept,not furnished,0,1500,163,23,1686
+São Paulo,58,1,1,1,1,acept,furnished,475,3500,70,45,4090
+Rio de Janeiro,23,1,1,0,5,not acept,not furnished,320,1540,0,20,1880
+Rio de Janeiro,95,3,2,1,3,acept,not furnished,1061,2500,67,33,3661
+São Paulo,196,4,3,3,13,not acept,not furnished,2420,5000,931,64,8415
+São Paulo,70,2,1,0,-,acept,not furnished,0,2300,123,35,2458
+Porto Alegre,148,2,1,2,3,acept,not furnished,385,1650,880,25,2940
+São Paulo,70,2,1,0,2,acept,not furnished,1100,1280,0,17,2397
+São Paulo,30,1,1,1,5,not acept,not furnished,610,2300,134,30,3074
+São Paulo,300,3,2,4,-,acept,not furnished,0,2700,250,41,2991
+São Paulo,53,1,1,1,5,not acept,furnished,1132,2600,0,33,3765
+São Paulo,96,3,2,2,5,acept,furnished,920,3148,81,40,4189
+São Paulo,190,3,4,2,10,not acept,not furnished,1764,6000,48,77,7889
+São Paulo,250,3,5,8,-,acept,furnished,0,6000,7,91,6098
+Belo Horizonte,130,4,1,3,-,not acept,not furnished,0,2150,0,36,2186
+São Paulo,250,3,3,6,-,acept,not furnished,0,4250,519,64,4833
+Campinas,50,1,1,0,7,acept,not furnished,305,650,13,9,977
+Belo Horizonte,840,5,6,5,-,acept,not furnished,0,8000,511,132,8643
+Rio de Janeiro,95,3,3,0,5,acept,not furnished,750,1999,291,26,3066
+São Paulo,33,1,1,0,1,not acept,not furnished,250,1305,0,17,1572
+Rio de Janeiro,60,2,1,0,2,acept,not furnished,380,1350,0,18,1748
+São Paulo,51,1,1,0,11,acept,furnished,900,4950,125,63,6038
+Rio de Janeiro,200,4,3,2,2,acept,not furnished,1900,8000,756,104,10760
+São Paulo,212,4,5,6,7,acept,not furnished,2850,4500,1067,58,8475
+Belo Horizonte,66,3,1,0,-,acept,not furnished,15,1525,0,26,1566
+São Paulo,150,3,5,2,14,acept,not furnished,1423,3102,452,40,5017
+Rio de Janeiro,48,2,1,1,12,acept,not furnished,400,1270,9,17,1696
+São Paulo,90,2,2,1,-,acept,not furnished,0,2500,274,38,2812
+Porto Alegre,136,4,3,2,3,not acept,not furnished,750,4000,327,59,5136
+São Paulo,40,1,1,1,14,acept,not furnished,557,3000,95,39,3691
+São Paulo,100,1,2,2,-,not acept,not furnished,0,1700,0,26,1726
+São Paulo,32,1,1,0,18,acept,not furnished,330,1200,100,16,1646
+São Paulo,30,1,1,1,13,acept,furnished,700,3300,9,42,4051
+São Paulo,170,2,2,5,-,acept,not furnished,0,5500,600,83,6183
+Campinas,184,4,3,4,-,acept,not furnished,0,3240,220,49,3509
+São Paulo,368,4,5,4,1,acept,not furnished,4210,5000,2661,64,11940
+São Paulo,230,3,4,4,12,acept,not furnished,3300,7000,917,89,11310
+São Paulo,214,4,6,4,4,acept,furnished,2000,11000,780,140,13920
+Belo Horizonte,37,1,1,1,7,not acept,not furnished,425,2000,0,27,2452
+São Paulo,450,5,5,4,-,not acept,not furnished,0,5540,520,84,6144
+São Paulo,87,3,2,0,6,acept,not furnished,1284,2000,231,26,3541
+São Paulo,70,2,1,1,-,acept,not furnished,0,1300,25,20,1345
+São Paulo,54,2,1,1,-,acept,not furnished,480,1250,7,16,1753
+Belo Horizonte,155,4,3,3,7,acept,not furnished,1200,3300,356,44,4900
+São Paulo,35,1,1,0,-,acept,not furnished,0,1100,30,14,1144
+São Paulo,160,4,4,5,-,acept,not furnished,0,4500,0,68,4568
+Belo Horizonte,95,3,2,2,1,acept,not furnished,210,1400,122,19,1751
+São Paulo,113,2,1,1,5,acept,not furnished,1000,3000,50,39,4089
+Rio de Janeiro,70,3,2,1,9,acept,not furnished,1002,850,255,11,2118
+São Paulo,131,3,2,2,1,acept,not furnished,1497,1800,600,23,3920
+Belo Horizonte,130,3,3,1,2,acept,not furnished,690,3200,150,43,4083
+Porto Alegre,72,2,1,0,1,acept,not furnished,80,1300,40,19,1439
+Belo Horizonte,130,2,1,1,-,acept,not furnished,0,1280,59,21,1360
+Rio de Janeiro,80,2,3,1,7,acept,furnished,850,1300,320,10,2480
+São Paulo,50,3,2,2,-,acept,not furnished,150,2800,30,43,3023
+São Paulo,54,2,1,1,4,not acept,not furnished,570,2000,10,26,2606
+São Paulo,130,3,3,3,23,acept,not furnished,1290,2800,489,36,4615
+Porto Alegre,230,4,1,1,3,acept,not furnished,1287,3500,370,52,5209
+São Paulo,50,2,1,1,1,acept,not furnished,300,1100,0,14,1414
+Belo Horizonte,100,3,2,3,-,acept,not furnished,0,2800,0,46,2846
+Belo Horizonte,40,1,1,1,2,not acept,furnished,0,970,0,13,983
+Campinas,75,3,1,1,1,not acept,not furnished,296,12000,0,181,12480
+São Paulo,30,1,1,1,4,not acept,furnished,1787,1200,144,16,3147
+Porto Alegre,68,2,2,1,3,acept,not furnished,400,1800,82,27,2309
+São Paulo,117,3,3,2,-,acept,not furnished,0,2700,16,41,2757
+Porto Alegre,600,5,4,5,-,acept,furnished,0,12000,1167,214,13380
+São Paulo,126,3,2,2,18,not acept,not furnished,990,1610,0,21,2621
+Porto Alegre,290,4,4,3,-,acept,not furnished,0,2500,262,45,2807
+Porto Alegre,120,3,1,0,4,acept,not furnished,1090,1500,125,22,2737
+Rio de Janeiro,35,1,1,0,3,acept,furnished,450,1600,0,21,2071
+Belo Horizonte,40,1,1,1,2,not acept,furnished,0,970,0,13,983
+São Paulo,56,2,2,1,4,acept,not furnished,500,2000,0,26,2526
+Campinas,53,2,1,1,1,acept,not furnished,0,800,65,11,876
+Porto Alegre,150,4,2,2,-,acept,not furnished,600,1100,0,20,1720
+São Paulo,40,1,1,0,1,not acept,not furnished,0,980,0,13,993
+São Paulo,31,1,1,0,9,acept,furnished,400,3280,109,42,3831
+São Paulo,50,2,2,1,1,acept,not furnished,450,1275,23,17,1765
+São Paulo,347,5,5,4,-,acept,not furnished,0,7000,500,106,7606
+São Paulo,70,3,1,1,14,not acept,not furnished,428,1800,42,23,2293
+Rio de Janeiro,75,2,1,0,4,acept,not furnished,440,1200,0,16,1656
+Porto Alegre,90,3,2,0,3,not acept,not furnished,405,1105,31,17,1558
+São Paulo,200,3,4,1,10,acept,not furnished,1600,1190,550,16,3356
+São Paulo,201,4,4,4,13,acept,not furnished,2600,5933,900,76,9509
+São Paulo,37,1,1,0,1,acept,not furnished,0,1400,0,18,1418
+São Paulo,75,3,1,1,8,not acept,not furnished,837,2200,70,28,3135
+São Paulo,42,1,1,0,6,acept,not furnished,1290,1650,184,21,3145
+Campinas,148,3,2,0,14,acept,not furnished,610,1700,102,22,2434
+São Paulo,200,2,2,0,-,acept,not furnished,0,3000,9,46,3055
+São Paulo,300,3,2,0,-,acept,furnished,0,8300,217,125,8642
+São Paulo,73,1,1,0,2,acept,not furnished,0,1350,62,18,1430
+Rio de Janeiro,77,3,1,0,2,acept,furnished,1163,4200,269,55,5687
+Belo Horizonte,50,2,1,0,-,acept,not furnished,0,850,30,12,892
+São Paulo,300,5,5,2,-,acept,not furnished,0,4000,220,61,4281
+Rio de Janeiro,180,3,2,1,9,acept,not furnished,1600,4900,459,64,7023
+Porto Alegre,68,3,2,1,10,acept,not furnished,600,1600,76,24,2300
+São Paulo,62,2,2,1,1,acept,not furnished,560,1550,17,20,2147
+São Paulo,62,2,2,2,6,not acept,not furnished,1000,3230,230,41,4501
+Campinas,212,4,1,2,-,acept,not furnished,0,1500,88,23,1611
+São Paulo,340,3,4,4,-,acept,not furnished,0,10000,1584,151,11740
+Porto Alegre,280,5,4,8,-,acept,not furnished,0,10000,417,178,10600
+São Paulo,250,4,3,4,-,acept,not furnished,0,7200,434,109,7743
+São Paulo,64,2,1,0,8,acept,not furnished,500,1600,100,21,2221
+São Paulo,25,1,1,0,12,acept,not furnished,318,2100,41,27,2486
+São Paulo,37,1,1,0,11,not acept,not furnished,346,3250,69,42,3707
+Campinas,51,3,1,1,-,acept,not furnished,246,1100,71,14,1431
+Rio de Janeiro,75,2,3,1,2,acept,not furnished,862,1600,260,21,2743
+São Paulo,40,1,1,1,-,not acept,not furnished,0,972,0,15,987
+Rio de Janeiro,25,1,1,0,1,acept,not furnished,50,700,0,10,760
+Porto Alegre,340,5,4,4,-,acept,not furnished,0,4800,300,86,5186
+Rio de Janeiro,60,2,1,0,2,acept,not furnished,880,2650,209,35,3774
+Campinas,90,1,1,1,7,not acept,furnished,1750,1680,100,22,3552
+São Paulo,120,3,3,2,-,acept,not furnished,0,8900,371,134,9405
+São Paulo,200,1,2,0,-,acept,not furnished,0,8000,700,121,8821
+São Paulo,168,4,4,3,6,acept,not furnished,1400,3250,234,42,4926
+São Paulo,212,4,5,4,16,acept,not furnished,4000,10000,834,127,14960
+São Paulo,40,1,1,1,7,acept,not furnished,450,2400,0,31,2881
+São Paulo,78,1,2,1,10,not acept,not furnished,900,2440,167,31,3538
+São Paulo,340,3,4,3,-,acept,furnished,0,9800,392,148,10340
+Belo Horizonte,300,4,4,4,4,acept,not furnished,2200,10000,1114,134,13450
+Belo Horizonte,181,3,3,3,-,acept,not furnished,0,5500,148,91,5739
+São Paulo,68,2,2,0,6,not acept,furnished,630,6443,20,82,7175
+São Paulo,600,6,7,4,-,acept,furnished,10000,15000,84,226,25310
+São Paulo,138,3,3,2,-,acept,not furnished,0,2700,141,41,2882
+Belo Horizonte,65,2,1,1,6,not acept,not furnished,486,1200,101,16,1803
+São Paulo,44,1,1,1,6,not acept,not furnished,571,2000,130,26,2727
+São Paulo,600,5,7,8,-,acept,furnished,0,9000,1875,136,11010
+Belo Horizonte,53,1,1,0,1,acept,not furnished,398,1300,89,18,1805
+Belo Horizonte,340,4,5,4,20,acept,not furnished,2260,12000,872,160,15290
+São Paulo,183,6,5,2,2,not acept,not furnished,800,3800,25,58,4683
+São Paulo,80,2,3,0,6,acept,not furnished,1312,3300,427,42,5081
+Campinas,50,1,1,1,7,not acept,furnished,406,2800,123,36,3365
+São Paulo,293,4,3,3,5,acept,not furnished,3300,1050,500,14,4864
+Belo Horizonte,80,3,2,1,2,acept,not furnished,413,1800,124,24,2361
+São Paulo,30,1,1,0,1,acept,furnished,143,1318,0,17,1478
+São Paulo,150,3,4,2,-,acept,not furnished,0,2000,200,31,2231
+Campinas,70,3,2,2,2,acept,furnished,359,2010,74,26,2469
+São Paulo,85,2,1,1,1,acept,not furnished,500,2300,97,30,2927
+Rio de Janeiro,500,5,5,1,-,acept,not furnished,0,7900,486,121,8507
+Porto Alegre,49,2,1,1,-,acept,not furnished,150,1220,6,22,1398
+São Paulo,325,4,5,7,-,acept,furnished,0,11500,825,173,12500
+Rio de Janeiro,35,1,1,0,6,not acept,furnished,0,2570,58,34,2662
+São Paulo,270,4,3,3,2,acept,not furnished,3260,7500,550,96,11410
+São Paulo,150,3,5,3,2,acept,furnished,990,11000,284,140,12410
+Belo Horizonte,300,3,3,2,-,acept,not furnished,0,5000,690,82,5772
+São Paulo,42,1,1,1,21,not acept,furnished,2406,2500,202,32,5140
+São Paulo,126,2,1,0,-,acept,not furnished,0,1700,314,26,2040
+São Paulo,67,2,1,1,4,acept,not furnished,1500,2099,250,27,3876
+São Paulo,80,3,3,2,4,acept,furnished,1374,2000,283,26,3683
+São Paulo,85,3,1,2,4,acept,not furnished,1600,1900,139,25,3664
