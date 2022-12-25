@@ -3,6 +3,8 @@ import pandas as pd
 import altair as alt
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 houses = pd.read_csv('https://raw.githubusercontent.com/Nidhal2022/Khoula-Nidhal/main/streamlit-examples/houses.csv')
 houses=houses.dropna()
