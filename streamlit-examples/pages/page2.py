@@ -27,7 +27,7 @@ def plot():
 
     st.plotly_chart(fig)
 
-    ax = sns.regplot(houses['fire insurance (R$)'],houses['rent amount (R$)']).get_figure()
+    ax = sns.regplot(houses['fire insurance (R$)'],houses['rent amount (R$)'])
 
     st.pyplot(ax)
 plot()
