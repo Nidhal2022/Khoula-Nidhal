@@ -32,7 +32,7 @@ def plot():
     st.pyplot(ax)
 
 
-plot()
+
 
 
 
