@@ -26,15 +26,14 @@ def plot():
         fig = fig.add_trace(go.Bar(x=houses["rooms"], y=houses["rent amount (R$)"], name=country))
 
     st.plotly_chart(fig)
-    def index(request):
-         
 
-        ax = sns.regplot(houses['fire insurance (R$)'],houses['rent amount (R$)']).get_figure()
+    ax = sns.regplot(houses['fire insurance (R$)'],houses['rent amount (R$)']).get_figure()
 
-        return(st.pyplot(ax))
+    st.pyplot(ax)
 
 
 plot()
+
 
 
 
