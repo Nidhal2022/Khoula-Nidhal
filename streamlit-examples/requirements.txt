@@ -1,3 +1,5 @@
 streamlit==1.14.0
 matplotlib
 seaborn
+graphviz
+plotly
