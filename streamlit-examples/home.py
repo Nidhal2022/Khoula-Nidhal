@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib as plt
 import seaborn as sns
 
-houses = pd.read_csv('/streamlit-example/houses.csv')
+houses = pd.read_csv('https://raw.githubusercontent.com/Nidhal2022/Khoula-Nidhal/main/streamlit-examples/houses.csv')
 houses=houses.dropna()
 houses=houses[houses['area']<400]
 houses=houses[houses['total (R$)']<8000]
