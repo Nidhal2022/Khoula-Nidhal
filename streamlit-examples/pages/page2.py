@@ -6,14 +6,14 @@ import plotly as go
 import seaborn as sns
 
 
-houses = pd.read_csv('/content/houses.csv')
+houses = pd.read_csv('https://raw.githubusercontent.com/Nidhal2022/Khoula-Nidhal/main/streamlit-examples/houses.csv')
 st.title('houses Visualization')
 
 def plot():
 
 
     
-    houses=pd.read_csv('/content/houses.csv')
+    houses=pd.read_csv('https://raw.githubusercontent.com/Nidhal2022/Khoula-Nidhal/main/streamlit-examples/houses.csv')
 
     clist = houses["city"].unique().tolist()
     countries = st.multiselect("Select country", clist)
