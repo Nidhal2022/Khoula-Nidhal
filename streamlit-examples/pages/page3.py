@@ -39,7 +39,7 @@ chart2 = {
         },
         "color": {"field": "animal", "type": "nominal"},
         "shape": {"field": "animal", "type": "nominal"},
-        "size": {"feild": "city", "type":"nominal"}
+        "size": {"field": "city", "type": "nominal"}
     },
 }
 
@@ -56,7 +56,7 @@ chart3 = {
         },
         "color": {"field": "city", "type": "nominal"},
         "shape": {"field": "city", "type": "nominal"},
-        "size": {"feild": "rooms", "type":"nominal"}
+         "size": {"field": "rooms", "type": "nominal"}
 
     },
 }
