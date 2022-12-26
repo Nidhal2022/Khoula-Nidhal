@@ -21,7 +21,7 @@ st.header(' Background of the Dataset ')
 
 
 
-st.subheader(' These are :red[columns] of houses for rent in Brazil Dataset ')
+st.subheader(' These are columns of houses for rent in Brazil Dataset ')
 
 import graphviz as graphviz
 graph = graphviz.Digraph()
