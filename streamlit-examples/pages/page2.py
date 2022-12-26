@@ -29,9 +29,8 @@ def plot():
 plot() 
 def index(request):
     
-    ax = sns.regplot(houses['fire insurance (R$)'],houses['rent amount (R$)'])
-    return(pt.pyplot(ax))
-
+    return(sns.regplot(houses['fire insurance (R$)'],houses['rent amount (R$)']))
+   
     
     
   
