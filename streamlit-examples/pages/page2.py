@@ -27,7 +27,7 @@ def plot():
 
     st.plotly_chart(fig)
 plot() 
-def index(request):
+def index():
     
     return(sns.regplot(houses['fire insurance (R$)'],houses['rent amount (R$)']))
    
