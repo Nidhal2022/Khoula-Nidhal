@@ -37,7 +37,7 @@ plot()
 ax=sns.regplot(x = "fire insurance (R$)",
             y = "rent amount (R$)",
             data = houses)
-st.plotly_chart(ax)
+st.pyplot(ax)
 
 
 
