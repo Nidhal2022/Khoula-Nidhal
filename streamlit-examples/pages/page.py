@@ -13,7 +13,7 @@ furn = st.selectbox("The house is : ",houses['furniture'].unique())
 st.write(furn)
 c = st.color_picker('Pick A Color', '#00f900')
 
-plot_type=st.radio("select the plot type",['scatter','line','area'])
+plot_type=st.radio("select the plot type",['scatter','bar','area'])
 if plot_type == 'scatter':
   pl = alt.Chart(houses[houses['furniture']==furn]).mark_circle(color=c).encode(
     x = 'rooms',
@@ -21,7 +21,7 @@ if plot_type == 'scatter':
     tooltip = ['rooms','bathroom']
 ).interactive()
 else:
-  if plot_type == 'line':
+  if plot_type == 'bar':
     pl = alt.Chart(houses[houses['furniture']==furn]).mark_bar(color=c).encode(
       x = 'rooms',
       y ='bathroom',
